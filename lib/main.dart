@@ -6,6 +6,7 @@ import 'Product/product_details.dart';
 
 void main() {
   runApp(GetMaterialApp(
+
     debugShowCheckedModeBanner: false,
 
       getPages: [
